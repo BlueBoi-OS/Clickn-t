@@ -1,0 +1,17 @@
+body {
+  background: #dcdcdc;
+  text-align: center
+}
+
+h2 {
+  font-size: medium
+}
+
+h3 {
+  font-size: x-small
+}
+
+button {
+  font: bold 14px Arial;
+  color: red
+}
